@@ -24,7 +24,7 @@ let resumeData = {
     },
   ],
   aboutme:
-    "I am currently a student at Koszalin University of Technology. ",
+    "I am currently a student at Koszalin University of Technology. Programming, music and games are my favorite things that I like to combine with each other",
   address: "Poland",
   website: "radjach@gmail.com",
   education: [
